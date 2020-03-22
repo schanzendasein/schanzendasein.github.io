@@ -31,7 +31,7 @@ header_pages:
   - about.md
   - contact.md
 # Build settings
-theme: jekyll-theme-console
+# theme: jekyll-theme-console
 plugins:
   - jekyll-feed
   - jekyll-patreon
@@ -41,6 +41,7 @@ style: dark
 markdown: kramdown
 footer: '<a href="https://feeds.soundcloud.com/users/soundcloud:users:778690900/sounds.rss">rss</a>'
 
+remote_theme: b2a3e8/jekyll-theme-console
 
 ####################
 # Patreon Settings #
