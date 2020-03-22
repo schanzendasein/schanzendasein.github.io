@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "wolfs schanze podcast"
+date:   2020-02-04 01:10:24 +0100
+categories: podcast
+---
+
+der podcast 'wolfs schanze' ist ab sofort auf [soundcloud](https://soundcloud.com/wolfs_schanze) gehostet.
+
+# unterstütze podcast player
+* [spotify](https://open.spotify.com/show/6kkRFYISPrD56Fp4rjpPiG?si=pGxvZfDkTDSnXH6WPCd2GA)
+* [apple podcasts](https://podcasts.apple.com/de/podcast/wolfs-schanze/id1498366143)
+* [stitcher](https://www.stitcher.com/podcast/wolfs-schanze)
+

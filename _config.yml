@@ -18,19 +18,46 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wolfs Schanze
+title: wolfs_schanze
 email: wolfs_schanze@outlook.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Ein jeder brauch eine Zuflucht.
-baseurl: "/zuflucht"
+  wolfs schanze ist ein podcast der seinen beitrag zur kulturmaximierung leistet.
+baseurl: "/wolfs_schanze"
 url: "https://schanzendasein.github.io/"
 twitter_username: schanzendasein
 github_username:  schanzendasein
-
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
 # Build settings
-theme: minima
+theme: jekyll-theme-console
 plugins:
   - jekyll-feed
+  - jekyll-patreon
+
+style: dark
+# Build settings
+markdown: kramdown
+footer: '<a href="https://feeds.soundcloud.com/users/soundcloud:users:778690900/sounds.rss">rss</a>'
+
+
+####################
+# Patreon Settings #
+####################
+
+patreon:
+    enabled: true
+    design: 'default' # Supports the following desings: default, fancy, minimal, streamlined, reversed, swapped
+    title: 'Example title'
+    metercolor: 'green nostripes' # Supports the following colors: red, green, orange, red nostripes, green nostripes, orange nostripes, blue nostripes
+    toptext: 'Example top text' # Text that appears in before the progress bar (optional)
+    bottomtext: 'Example bottom text' # Text that appears in after the progress bar (optional)
+    showgoaltext: true # Display the goal text?
+    showbutton: true # Display the "Become a patron" button?
+    username: 'wolfs_schanze'
+    default_lang: "en" # The default language to use (to avoid writing twice the same text from Patreon)
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

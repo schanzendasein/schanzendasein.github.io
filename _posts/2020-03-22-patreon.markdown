@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "patreon"
+date:   2020-03-22 21:10:24 +0100
+categories: patreon
+---
+
+ich habe, um es einmal probiert zu haben, ein [patreon profil](https://www.patreon.com/wolfs_schanze) erstellt.
+wer will, kann dort gerne abonnieren oder gar patron werden.
