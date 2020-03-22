@@ -35,6 +35,8 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-patreon
+  - jekyll-remote-theme
+  - github-pages
 
 style: dark
 # Build settings
