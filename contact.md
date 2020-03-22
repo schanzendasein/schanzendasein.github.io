@@ -1,7 +1,7 @@
 ---
-title: /contact
+title: /email
 layout: page
-permalink: /contact
+permalink: /email
 ---
 
 [email](wolfs_schanze@outlook.de)
