@@ -13,6 +13,7 @@ group :jekyll_plugins do
   gem "github-pages", "202"
   gem 'jekyll-patreon'
   gem "jekyll-remote-theme"
+  gem 'jekyll-seo-tag'
 end
 
 gem "jekyll-theme-console"

@@ -22,14 +22,14 @@ title: wolfs_schanze
 email: wolfs_schanze@outlook.de
 description: >- # this means to ignore newlines until "baseurl:"
   wolfs schanze ist ein podcast der seinen beitrag zur kulturmaximierung leistet.
-baseurl: "/wolfs_schanze"
+baseurl: "/"
 url: "https://schanzendasein.github.io/"
 twitter_username: schanzendasein
 github_username:  schanzendasein
 header_pages:
   - index.md
   - about.md
-  - contact.md
+
 # Build settings
 # theme: jekyll-theme-console
 plugins:
@@ -37,11 +37,12 @@ plugins:
   - jekyll-patreon
   - jekyll-remote-theme
   - github-pages
+  - jekyll-seo-tag
 
 style: dark
 # Build settings
 markdown: kramdown
-footer: '<a href="https://feeds.soundcloud.com/users/soundcloud:users:778690900/sounds.rss">rss</a>'
+footer: '  <a href="mailto:wolfs_schanze@outlook.de">email</a> <a href="https://feeds.soundcloud.com/users/soundcloud:users:778690900/sounds.rss">rss</a> | wolfs_schanze'
 
 remote_theme: b2a3e8/jekyll-theme-console
 

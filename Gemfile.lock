@@ -256,6 +256,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.11)
   jekyll-patreon
   jekyll-remote-theme
+  jekyll-seo-tag
   jekyll-theme-console
   tzinfo (~> 1.2)
   tzinfo-data

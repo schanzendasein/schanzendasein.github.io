@@ -1,7 +1,7 @@
 ---
-title: /index
+title: /posts
 layout: home
 permalink: /
 ---
 
-# wolfs_schanze
+# posts
